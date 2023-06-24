@@ -1,0 +1,12 @@
+#usda 1.0
+(
+    defaultPrim = "World"
+    metersPerUnit = 0.01
+    upAxis = "Y"
+)
+
+def "World"
+{
+    def "box" (references=@./box_geo.usda@) {
+    }
+}

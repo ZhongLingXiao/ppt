@@ -1,0 +1,6 @@
+#usda 1.0
+
+def Cube "box" (kind = "component")
+{
+    double size = 4.0
+}

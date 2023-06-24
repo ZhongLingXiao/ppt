@@ -1,0 +1,11 @@
+#usda 1.0
+(
+    defaultPrim = "root"
+)
+
+def Xform "root" (
+    prepend references = @modeling/gaoda02_modeling.usd@
+)
+{
+}
+

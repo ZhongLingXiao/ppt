@@ -1,0 +1,11 @@
+#usda 1.0
+(
+    defaultPrim = "root"
+)
+
+def Xform "root"(
+    prepend references = @../../../fragment/geo/head01/head01.usd@
+)
+{
+}
+

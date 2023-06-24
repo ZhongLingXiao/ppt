@@ -1,0 +1,14 @@
+#usda 1.0
+(
+    defaultPrim = "root"
+    subLayers = [
+        @animation/animation.usd@,
+        @layout/layout.usd@,
+        @assembly/assembly.usd@
+    ]
+)
+
+def "root"
+{
+}
+

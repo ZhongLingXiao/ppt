@@ -1,0 +1,14 @@
+#usda 1.0
+(
+    defaultPrim = "root"
+)
+
+def Xform "root" (
+    prepend references = [
+        @../../gaoda_01/gaoda_01.usd@,
+        @../../gaoda_02/gaoda_02.usd@
+    ]
+)
+{
+}
+

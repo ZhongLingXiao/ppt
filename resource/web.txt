@@ -1,0 +1,9 @@
+1. https://dpel.aswf.io/alab/
+2. https://openusd.org/release/dl_downloads.html
+3. https://openusd.org/release/api/usd_skel_page_front.html
+
+
+----------
+
+1. https://remedy-entertainment.github.io/USDBook/index.html
+2. https://medium.com/@nvidiaomniverse/what-you-need-to-know-about-universal-scene-description-from-one-of-its-founding-developers-12625e99389a

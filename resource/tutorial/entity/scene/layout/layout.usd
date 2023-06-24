@@ -1,0 +1,17 @@
+#usda 1.0
+(
+    defaultPrim = "root"
+)
+
+def Xform "root"
+{
+    over "GEO"
+    {
+        over "Heads_Head_00"
+        {
+            double3 xformOp:translate = (-25.326254634744842, -29.043211746607625, 48.378869831490164)
+            uniform token[] xformOpOrder = ["xformOp:translate"]
+        }
+    }
+}
+

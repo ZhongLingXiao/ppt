@@ -1,0 +1,18 @@
+#usda 1.0
+(
+    defaultPrim = "root"
+    metersPerUnit = 0.01
+    upAxis = "Y"
+)
+
+def Xform "root" (  
+)
+{
+    def Xform "GEO" (
+        prepend references = @mesh/head01_geo.usd@
+    )
+    {
+        
+    }
+
+}
