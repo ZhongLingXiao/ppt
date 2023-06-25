@@ -478,6 +478,15 @@ def Mesh "box" {
 ---
 
 # 参考资料
+
+<style>
+  .custom-font-size {
+    font-size: 20px !important;
+  }
+</style>
+
+<div class="custom-font-size">
+
 **概念**
 1. [Introduction to USD](https://openusd.org/release/intro.html)
 2. [Book of USD](https://remedy-entertainment.github.io/USDBook/index.html)
@@ -492,3 +501,6 @@ def Mesh "box" {
 
 **资产**
 1. [Animal Logic ALab – USD Production Scene](https://dpel.aswf.io/alab/)
+
+</div>
+
